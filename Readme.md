@@ -1,1 +1,4 @@
-File Kuliah Machine Learning
+## File Kuliah Machine Learning
+
+- Jupyter Notebook 
+- File data (CSV)
